@@ -1,0 +1,32 @@
+header {
+    text-align: center;
+}
+
+nav a {
+    color: black;
+}
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    background-color: #D14D72;
+    font-size: 40px;
+}
+
+h2 {
+    background-color: #FCC8D1;
+}
+
+body {
+    background-color: #FEF2F4;
+}
+
+h3 {
+    background-color: #FFABAB;
+}
+
+* {
+    font-family: 'Pridi', serif;
+}
