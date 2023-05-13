@@ -2,8 +2,19 @@ header {
     text-align: center;
 }
 
-nav a {
+.nav_bar {
+    display: flex;
+    gap: 1rem;
+    padding: 10px;
+    background-color: #FCC8D1;
+}
+
+li a {
     color: black;
+}
+
+li {
+    list-style: none;
 }
 
 footer {
@@ -15,9 +26,6 @@ h1 {
     font-size: 40px;
 }
 
-h2 {
-    background-color: #FCC8D1;
-}
 
 body {
     background-color: #FEF2F4;
